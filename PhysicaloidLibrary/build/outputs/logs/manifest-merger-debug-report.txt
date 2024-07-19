@@ -1,0 +1,20 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml:1:1-5:12
+INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml:1:1-5:12
+	package
+		INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml:3:5-30
+	xmlns:android
+		ADDED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml:2:5-28
+uses-sdk
+INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml
+INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Fahad\Demoftdi\PhysicaloidLibrary\AndroidManifest.xml

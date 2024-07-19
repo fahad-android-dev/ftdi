@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--todo theme based colors-->
+    <!--todo Don't use variable this directly in any xml create specific variable in this color file and apply there and use that variable anywhere-->
+    <color name="primary_color">#2A2C2A</color>
+    <color name="primary_dark_color">#1F211F</color>
+    <color name="primary_light_color">@color/color_white</color>
+    <color name="secondary_color">#9A9A9A</color>
+    <color name="secondary_dark_color">#1F211F</color>
+    <color name="secondary_light_color">#FFF9F9</color>
+
+    <!--todo App color configuration here -->
+    <color name="app_bg_color">@color/color_white</color>
+    <color name="app_bg_dark_color">@color/color_white</color>
+    <color name="app_color_status_bar">@color/color_white</color>
+    <color name="app_color">@color/primary_color</color>
+
+    <!--todo basic colors colors add here `keep variables name start with "color_"`-->
+    <color name="color_black">#FF000000</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_logo">#DB4A2B</color>
+    <color name="color_grey">#DCDCDC</color>
+    <color name="color_transparent">#00000000</color>
+
+    <!--todo Background Colors colors add here `keep variables name start with "bg_color_"`-->
+    <color name="bg_color_fully_transparent">@color/color_transparent</color>
+    <color name="bg_color_dark_grey">#696A69</color>
+
+    <!--todo Button colors colors add here `keep variables name start with "btn_"`-->
+    <color name="btn_bg_color_primary">#141414</color>
+    <color name="btn_txt_color_primary">#141414</color>
+    <color name="btn_bg_color_secondary">#141414</color>
+    <color name="btn_txt_color_secondary">#141414</color>
+
+    <!--todo tabs colors add here `keep variables name start with "tab_"` -->
+    <color name="tab_bg_color_selected">@color/tint_color_selected</color>
+    <color name="tab_txt_color_selected">@color/color_white</color>
+    <color name="tab_txt_color_unselected">@color/color_black</color>
+    <color name="tab_bg_color_unselected">@color/tint_color_unselected</color>
+
+    <!--todo Border colors colors add here `keep variables name start with "border_color"`-->
+    <color name="border_color_primary">@color/color_grey</color>
+    <color name="border_color_grey">#707070</color>
+
+    <!--todo tint colors colors add here `keep variables name start with "tint_color_"` -->
+    <color name="tint_color_selected">@color/color_black </color>
+    <color name="tint_color_unselected">#9A9A9A</color>
+
+    <!--todo App text colors  colors add here `keep variables name start with "txt_color_"` -->
+    <color name="txt_color_white">@color/color_white</color>
+    <color name="txt_color_black">@color/color_black</color>
+    <color name="txt_color_primary">#141414</color>
+    <color name="txt_color_secondary">#4D4C4C</color>
+
+    <!--todo hint colors add here `keep variables name start with "txt_color_"` -->
+    <color name="hint_color_primary">#95A4B4</color>
+
+    <!--todo checkbox colors add here 'keep variables name start with "checkbox_"' -->
+    <color name="checkbox_color">@color/color_black</color>
+
+    <!--todo toolbar colors add here `keep variables name start with "toolbar_color_"` -->
+    <color name="toolbar_color_text">@color/txt_color_primary</color>
+    <color name="toolbar_color_icon">#141414</color>
+
+    <!--todo divider colors add here `keep variables name start with "divider_line_"` -->
+    <color name="divider_line_color">#F1F1F1</color> <!--changed on as per new design app-->
+    <color name="divider_line_color_light">#DCDCDC</color> <!--changed on as per new design app-->
+    <color name="divider_line_color_white">@color/color_white</color>
+    <color name="divider_line_color_grey">#66C6C6C8</color>
+    <color name="green_color">#45B465</color>
+    <color name="red_color">#EE4B2B</color>
+    <color name="cream_color">#E2DABC</color>
+
+
+</resources>

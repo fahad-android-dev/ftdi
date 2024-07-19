@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Fahad\Demoftdi\PhysicaloidLibrary"
+    name=":PhysicaloidLibrary"
+    type="LIBRARY"
+    maven="Demoftdi:PhysicaloidLibrary:unspecified"
+    agpVersion="8.5.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\Zibyan\AppData\Local\Android\Sdk\platforms\android-28\android.jar;C:\Users\Zibyan\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-28"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
